@@ -103,6 +103,12 @@ branch 'main' set up to track 'origin/main'.
 - You can find this Markdown cheatsheet in my repo, or you can create your own using GitHub Copilot.   
 - You have the option to keep or undo changes. 
 
+#### Figure 4b
+![alt text](images/figure4b.png)
+
+I use Excalidraw (free) to make "Whiteboard Diagrams."  Install the Visual Studio extension, and you can edit the diagrams in this repo. 
+
+
 #### Figure 5
 ![alt text](images/figure5.png)
 
