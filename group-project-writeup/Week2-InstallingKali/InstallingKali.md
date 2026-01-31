@@ -24,7 +24,7 @@ Verification of the VM configuration within UTM, showing the **1GB RAM** allocat
 ---
 
 ### Screenshot 3: Kali Linux Login and IP Verification
-![kali linux screenshot](https://file%2B.vscode-resource.vscode-cdn.net/Users/euancanoy/Documents/MSSE642-2026Spring/group-project-writeup/Week2-InstallingKali/Screenshot%202026-01-30%20at%204.09.24%E2%80%AFPM.png?version%3D1769821349560)
+![kali linux screenshot](<Screenshot 2026-01-30 at 4.09.24 PM.png>)
 **Description:** A terminal session inside Kali Linux showing a successful login. The output of the `ifconfig` command verifies the active IP address for the virtual network.
 
 ---
